@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Son%20Chae%20Yeon%20💖&fontColor=ffffff&fontAlignX=65&fontAlignY=30&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Song%20Hyo%20Jin%20💖&fontColor=ffffff&fontAlignX=65&fontAlignY=30&fontSize=50&animation=fadeIn)
 
 <div align="center">
 <h4 align="center">👋 Hi there! I'm a junior Web developer👋</h4>
@@ -27,9 +27,9 @@
 <h3 align="center">Contact Me 📢</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/22bbn2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/engeliss72" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="https://velog.io/@eebbni" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://blog.naver.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="https://velog.io/" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
 <p align="center">
